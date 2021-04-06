@@ -1,0 +1,6 @@
+[submodule "carlmjohnson/certinfo"]
+	path = carlmjohnson/certinfo
+	url = git@github.com:carlmjohnson/certinfo.git
+[submodule "go-acme/lego"]
+	path = go-acme/lego
+	url = git@github.com:go-acme/lego.git
